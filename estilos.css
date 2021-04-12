@@ -1,11 +1,15 @@
 body {
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Courier New', Courier, monospace;
+=======
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+>>>>>>> cabezeo
     margin: 0;
     padding: 0;
 }
 #cabezeo {
-    background: green;
+    background: red;
     color: white;
     font-weight: bold;
     box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.75);
